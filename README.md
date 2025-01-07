@@ -77,7 +77,7 @@ Below are illustrative screenshots of the application showcasing its key feature
 ### **Setup and Installation**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/madonna-mosaad/FT-Magnitude-Phase-Mixer.git
+   [git clone https://github.com/madonna-mosaad/FT-Magnitude-Phase-Mixer.git](https://github.com/nancymahmoud1/FT-Magnitude-Phase-Mixer.git)
    ```
 2. **Navigate to the Project Directory**:
    ```bash
